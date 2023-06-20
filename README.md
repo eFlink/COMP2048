@@ -1,2 +1,3 @@
 # COMP2048
-a
+
+The assignments showcased here are from my COMP2048 course on the theory of computing, which explores the concept of computation and its applications. The first assignment involved deciphering secret messages using historical cipher techniques and simulating the Enigma code machine. The second assignment focused on implementing the Game of Life simulation based on cellular automation rules. The third assignment centered around creating Turing machines using a Python simulator and programming transition rules. I achieved excellent grades of 93%, 100%, and 98% in these respective assignments, reflecting my understanding and proficiency in computational concepts and problem-solving.
